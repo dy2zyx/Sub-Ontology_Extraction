@@ -1,0 +1,1 @@
+Feel free to download the implentation and test it yourself with different input files. Note that in this example, we did not upload the RDF file of the entire knowledge graph, i.e. 'categories_skos.ttl' file. Meanwhile, it can be downloaded via the [DBpedia official dump](http://downloads.dbpedia.org/repo/dbpedia/generic/categories/)
