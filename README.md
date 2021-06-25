@@ -1,5 +1,5 @@
 # Sub-Ontology_Extraction
-A Python implementation of the sub-ontology extraction algorithm ([Ranwez et al., 2013](https://hal.archives-ouvertes.fr/hal-00797150)) applied to the movie recommendation explanation domain.
+A Python implementation of the sub-ontology extraction algorithm ([Ranwez et al., 2011](https://hal.archives-ouvertes.fr/hal-00797150)) applied to the movie recommendation explanation domain.
 
 ### Overview
 The general aim of the algorithm is to extract a relevant sub-ontology from a entire ontology, given a set of relevant nodes as input. As manipulating and exploiting large ontologies and large knowledge graphs might sometimes be inefficient, people may would like to focus more on the most relevant part of the entire ontology which would be much smaller to exploit while perserving as much as possible the information content of the extracted sub-ontology.
